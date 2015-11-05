@@ -1,0 +1,9 @@
+05 nov 2015 00:55:29,310 INFO  ~ Starting C:\play-1.3.1\play-1.3.1\yabe
+05 nov 2015 00:55:30,194 WARN  ~ You're running Play! in DEV mode
+05 nov 2015 00:55:30,297 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+05 nov 2015 00:56:00,750 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0 for default
+05 nov 2015 00:56:02,109 INFO  ~ Application 'yabe' is now started !
+05 nov 2015 01:00:42,220 ERROR ~ HHH000389: Unsuccessful: alter table Post drop constraint FK_m7j5gwmpa7dklv5bnc41ertmi
+05 nov 2015 01:00:42,220 ERROR ~ Tabla "POST" no encontrada
+Table "POST" not found; SQL statement:
+alter table Post drop constraint FK_m7j5gwmpa7dklv5bnc41ertmi [42102-185]
